@@ -9,6 +9,7 @@ Create a news application with next features:
 I've used libraries like: 
 * Snapkit 
 * Alamofire
+
 Snapkit for autolayout and Alamofire for parsing JSON data from API
 
 
