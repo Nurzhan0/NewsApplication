@@ -1,1 +1,4 @@
-# NewsApplication
+# News Application
+
+##Project description
+
